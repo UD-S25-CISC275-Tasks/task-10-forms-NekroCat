@@ -2,6 +2,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
@@ -12,6 +13,11 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
 >>>>>>> origin/task-components
+=======
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+>>>>>>> origin/task-forms
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true
 }
